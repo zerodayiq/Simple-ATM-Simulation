@@ -37,7 +37,7 @@ Balance Update
 
 ## Compile
 
-```bash
+
 g++ main.cpp -o atm
 
 ---
