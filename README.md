@@ -38,7 +38,10 @@ Balance Update
 ## Compile
 
 
-g++ main.cpp -o atm
+g++ atm.cpp -o atm
+
+# Run
+./atm
 
 ---
 
