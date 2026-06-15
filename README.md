@@ -40,18 +40,10 @@ Balance Update
 ```bash
 g++ main.cpp -o atm
 
-
-# Run
-./atm
-
-
 ---
 
 # 📄 LICENSE (MIT)
 
-نفس اللي استخدمناه قبل:
-
-```txt
 MIT License
 
 Copyright (c) 2026
